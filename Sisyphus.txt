@@ -1,0 +1,3 @@
+Fix fuck-you-no-input in menu = 'vol' numMode = 3
+Get quadFun to draw a function istead of random shit
+Optimization, might as well kill myself
